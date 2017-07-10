@@ -1,0 +1,33 @@
+.note{
+      width: 116px;
+            background: yellow;
+            height: auto;
+            position: absolute;
+            box-shadow: 5px 5px 15px 0 rgba(0,0,0,.2)
+        }
+        .note span{
+            top: auto;
+    position: relative;
+    left: 55px;
+        }
+
+        .note button{
+              background: white;
+          border: 1px solid;
+          cursor: pointer;
+          font-size: 9px;
+          border-color: black;
+          border-radius: 18px;
+          margin-left: 3px;
+        }
+        .note textarea{
+          height: 66px;
+    width: 111px;
+    background: none;
+    border: none;
+        }
+        .board{
+          background-color: brown;
+          width: 100%;
+          background: #ean92d;
+        }
